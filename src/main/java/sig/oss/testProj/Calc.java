@@ -1,6 +1,6 @@
 package sig.oss.testProj;
 
-
+//calculator
 	public class Calc {
         private int r=0;
 	public void add(int x, int y) {
